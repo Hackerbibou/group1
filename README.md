@@ -1,4 +1,4 @@
 # group1
-Abiboulaye
+Abiboulaye Diagne
 Stephen Oke
 Ahmed Abdullah
